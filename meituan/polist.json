@@ -1,0 +1,185 @@
+{
+    "polist": [
+        {
+            "name": "西贝莜面村（深圳中心城店）",
+            "pic_url": "http://p0.meituan.net/xianfu/ea0840f3ccd22dbfbacf6e286136a43015287.jpeg",
+            "distance": "1.2km",
+            "month_sale_num": "2014",
+            "min_price_tip": "起送 ¥20",
+            "shipping_fee_tip": "配送 ¥6",
+            "avg_delivery_time": 88
+        },
+        {
+            "name": "稻香(深圳皇庭店)",
+            "pic_url": "http://p1.meituan.net/xianfu/b4540355e29f65c5935812b72364458c8192.jpg",
+            "distance": "1.4km",
+            "month_sale_num": "2035",
+            "min_price_tip": "起送 ¥30",
+            "shipping_fee_tip": "配送 ¥6",
+            "avg_delivery_time": 90
+        },
+        {
+            "name": "望湘园(深圳皇庭广场店)",
+            "pic_url": "http://p0.meituan.net/xianfu/99783c69b240b371ec996579819cf7d714873.jpg",
+            "distance": "1.6km",
+            "month_sale_num": "1977",
+            "min_price_tip": "起送 ¥0",
+            "shipping_fee_tip": "配送 ¥8",
+            "avg_delivery_time": 56
+        },
+        {
+            "name": "巴蜀风月（cocopark店）",
+            "pic_url": "http://p0.meituan.net/xianfu/f767e7acd9a040161ab41dc0f1ae780710531.jpg",
+            "distance": "1.7km",
+            "month_sale_num": "1570",
+            "min_price_tip": "起送 ¥20",
+            "shipping_fee_tip": "配送 ¥6",
+            "avg_delivery_time": 90
+        },
+        {
+            "name": "饭戒（岗厦店）",
+            "pic_url": "http://p0.meituan.net/xianfu/008e0ecaddeda13172d487066c3326b74906.jpg",
+            "distance": "1.8km",
+            "month_sale_num": "8185",
+            "min_price_tip": "起送 ¥15",
+            "shipping_fee_tip": "配送 ¥4",
+            "avg_delivery_time": 38
+        },
+        {
+            "name": "义泰昌现炒快餐（景田南店）",
+            "pic_url": "http://p1.meituan.net/xianfu/bacd2174b91b38736409f258c0cc6ffc83787.jpeg",
+            "distance": "2.3km",
+            "month_sale_num": "11809",
+            "min_price_tip": "起送 ¥25",
+            "shipping_fee_tip": "配送 ¥6",
+            "avg_delivery_time": 56
+        },
+        {
+            "name": "钱塘潮（Coco Park店）",
+            "pic_url": "http://p1.meituan.net/xianfu/cb878685a20378b83b0b73a2b38d669f32228.jpg",
+            "distance": "1.6km",
+            "month_sale_num": "173",
+            "min_price_tip": "起送 ¥20",
+            "shipping_fee_tip": "配送 ¥5",
+            "avg_delivery_time": 90
+        },
+        {
+            "name": "我呀便当（深圳岗厦店）",
+            "pic_url": "http://p1.meituan.net/xianfu/cf6c4fbb0456512fe3fa25795f8e6ced29909.jpeg",
+            "distance": "2.0km",
+            "month_sale_num": "6189",
+            "min_price_tip": "起送 ¥15",
+            "shipping_fee_tip": "配送 ¥5",
+            "avg_delivery_time": 37
+        },
+        {
+            "name": "新麻蒲（购物公园店）",
+            "pic_url": "http://p1.meituan.net/xianfu/54521eabd541fa4d15cad6dad4fb700e44781.jpg",
+            "distance": "1.2km",
+            "month_sale_num": "1041",
+            "min_price_tip": "起送 ¥20",
+            "shipping_fee_tip": "配送 ¥5",
+            "avg_delivery_time": 83
+        },
+        {
+            "name": "香港九香汤粉王",
+            "pic_url": "http://p1.meituan.net/xianfu/750378d2a12b7494ecb0f8af2af0653141083.jpg",
+            "distance": "1.2km",
+            "month_sale_num": "1041",
+            "min_price_tip": "起送 ¥20",
+            "shipping_fee_tip": "配送 ¥4",
+            "avg_delivery_time": 78
+        },
+        {
+            "name": "西贝莜面村（深圳购物公园店）",
+            "pic_url": "http://p0.meituan.net/xianfu/ea0840f3ccd22dbfbacf6e286136a43015287.jpeg",
+            "distance": "1.7km",
+            "month_sale_num": "1537",
+            "min_price_tip": "起送 ¥20",
+            "shipping_fee_tip": "配送 ¥5",
+            "avg_delivery_time": 90
+        },
+        {
+            "name": "九毛九山西手工面（皇庭分店）",
+            "pic_url": "http://p0.meituan.net/xianfu/e4437a3c18e48106b88a19ccb544cc1f35460.jpg",
+            "distance": "1.5km",
+            "month_sale_num": "1301",
+            "min_price_tip": "起送 ¥20",
+            "shipping_fee_tip": "配送 ¥6",
+            "avg_delivery_time": 90
+        },
+        {
+            "name": "Wagas(深圳福田购物公园店)",
+            "pic_url": "http://p1.meituan.net/xianfu/633c1d79668d587d2efb282af479df308798.jpg",
+            "distance": "1.7km",
+            "month_sale_num": "662",
+            "min_price_tip": "起送 ¥20",
+            "shipping_fee_tip": "配送 ¥6",
+            "avg_delivery_time": 89
+        },
+        {
+            "name": "巴蜀风月（皇庭广场店）",
+            "pic_url": "http://p0.meituan.net/xianfu/f767e7acd9a040161ab41dc0f1ae780710531.jpg",
+            "distance": "1.5km",
+            "month_sale_num": "1186",
+            "min_price_tip": "起送 ¥20",
+            "shipping_fee_tip": "配送 ¥6",
+            "avg_delivery_time": 90
+        },
+        {
+            "name": "味千拉面(深圳书城中心城店)",
+            "pic_url": "http://p1.meituan.net/xianfu/f23c7e9548f5755388bf1df4dfbab2c09577.jpeg",
+            "distance": "584m",
+            "month_sale_num": "666",
+            "min_price_tip": "起送 ¥20",
+            "shipping_fee_tip": "配送 ¥9(高峰价)",
+            "avg_delivery_time": 69
+        },
+         {
+            "name": "赛百味（卓越店）",
+            "pic_url": "http://p1.meituan.net/xianfu/34e841975d591cb32aa0346d52d54c1989222.jpg",
+            "distance": "2.0km",
+            "month_sale_num": "1173",
+            "min_price_tip": "起送 ¥20",
+            "shipping_fee_tip": "配送 ¥5",
+            "avg_delivery_time": 69
+        },
+        {
+            "name": "正在茶餐厅（景田店）",
+            "pic_url": "http://p1.meituan.net/xianfu/f003138b65138c3a2cf4f7411b0dcd35128875.jpg",
+            "distance": "2.1km",
+            "month_sale_num": "2875",
+            "min_price_tip": "起送 ¥20",
+            "shipping_fee_tip": "配送 ¥7(高峰价)",
+            "avg_delivery_time": 58
+        },
+        {
+            "name": "中发源清真餐厅（景田店）",
+            "pic_url": "http://p0.meituan.net/xianfu/8ba18b29ae298115603779f98f299d1035816.jpg",
+            "distance": "2.6km",
+            "month_sale_num": "2698",
+            "min_price_tip": "起送 ¥25",
+            "shipping_fee_tip": "配送 ¥7(高峰价)",
+            "avg_delivery_time": 62
+        },
+         {
+            "name": "必胜客（深圳新闻路店）",
+            "pic_url": "http://p0.meituan.net/xianfu/411142b4603dabb3084fe88ca6b2640418143.jpg",
+            "distance": "1.9km",
+            "month_sale_num": "788",
+            "min_price_tip": "起送 ¥20",
+            "shipping_fee_tip": "配送 ¥7(高峰价)",
+            "avg_delivery_time": 57
+        },
+         {
+            "name": "食德馆茶餐厅",
+            "pic_url": "http://p1.meituan.net/xianfu/38987fc06953e96edb65c8c8675b419026187.jpg",
+            "distance": "1.8km",
+            "month_sale_num": "2323",
+            "min_price_tip": "起送 ¥20",
+            "shipping_fee_tip": "配送 ¥4",
+            "avg_delivery_time": 56
+        }
+    ]
+    
+}
